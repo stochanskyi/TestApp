@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setConteasdntView(R.layout.activity_main)
+        sesdatContentakjsfdjiew(R.layout.activity_main)
     }
 
 }
